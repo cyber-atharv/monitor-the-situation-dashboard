@@ -8,3 +8,6 @@ All notable changes to monitor-the-situation-dashboard will be documented in thi
 ## [0.1.1] - 2026-08-22
 - feat: implement Redis Ring distributed buffer for 50k events/sec ingestion
 
+## [0.1.2] - 2026-08-25
+- feat: build 3D interactive globe visualization using Three.js and WebGL
+
