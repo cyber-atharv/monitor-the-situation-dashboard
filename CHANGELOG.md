@@ -14,3 +14,6 @@ All notable changes to monitor-the-situation-dashboard will be documented in thi
 ## [0.1.3] - 2026-08-28
 - feat: integrate real-time geopolitical cyber attack telemetry feeds
 
+## [0.1.4] - 2026-08-30
+- style: polish dark-mode SOC operations UI and live threat metrics
+
